@@ -1,4 +1,4 @@
-'''# Project Roulette
+# Project Roulette
 
 [![Project Screenshot](project-roulette-screenshot.webp)](https://project-roulette.vercel.app/)
 
@@ -45,4 +45,4 @@ This project was conceived and developed by **Abdul Rauf Jatoi**.
 
 ---
 
-*Thank you for checking out Project Roulette! I hope it helps you find your next exciting coding adventure. Feel free to explore the application and generate some ideas!*'''
+*Thank you for checking out Project Roulette! I hope it helps you find your next exciting coding adventure. Feel free to explore the application and generate some ideas!*
